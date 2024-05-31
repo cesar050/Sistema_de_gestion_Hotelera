@@ -12,8 +12,7 @@ class Persona(models.Model):
     direccion = None
     telefono = None
     fecha_nacimiento = None
-
-
+    
 
     # Metodo constructo
 
